@@ -1,0 +1,6 @@
+{
+  "name": "Spanish & Armenian Learning App",
+  "description": "Interactive Armenian and Spanish reading texts, quizzes, and speaking practice with instant sentence translation popovers and speech synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
